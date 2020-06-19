@@ -1,0 +1,134 @@
+.lgc, .usdt {
+  background-color: #fff;
+  padding: 0 20px;
+}
+
+.lgc .header, .usdt .header {
+  text-align: center;
+  position: relative;
+  height: 66px;
+  line-height: 80px;
+  font-size: 60px;
+  padding-top: 20px;
+}
+
+.lgc .header img, .usdt .header img {
+  position: absolute;
+  top: 50%;
+  left: 36px;
+}
+
+.lgc .lgc_header, .usdt .lgc_header {
+  width: 95%;
+  height: 380px;
+  margin: 50px auto;
+  color: #fff;
+  background-color: #0F394B;
+  border-radius: 40px;
+  padding: 50px 30px 0 30px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 42px;
+}
+
+.lgc .lgc_header img, .usdt .lgc_header img {
+  width: 42px;
+}
+
+.lgc .lgc_header p:nth-child(2), .usdt .lgc_header p:nth-child(2) {
+  margin: 40px 0 15px 0;
+}
+
+.lgc .lgc_header p:nth-child(3), .usdt .lgc_header p:nth-child(3) {
+  color: #879ca5;
+  font-size: 20px;
+}
+
+.lgc .lgc_header div, .usdt .lgc_header div {
+  margin-top: 40px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.lgc .lgc_header div > span, .usdt .lgc_header div > span {
+  width: 80%;
+  color: #879ca5;
+  font-size: 30px;
+  display: block;
+  padding-left: 10px;
+  border: 1px solid rgba(50, 209, 162, 0.2);
+}
+
+.lgc .lgc_header div > img, .usdt .lgc_header div > img {
+  margin-right: 20px;
+}
+
+.lgc .lgc_list, .usdt .lgc_list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  text-align: center;
+  margin: 0 20px;
+}
+
+.lgc .jyjl, .usdt .jyjl {
+  margin: 35px 15px;
+}
+
+.lgc .trading_record, .usdt .trading_record {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  justify-items: center;
+  font-size: 42px;
+  font-weight: 500;
+  height: 120px;
+  margin-top: 30px;
+  padding: 0 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.lgc .trading_record .date, .usdt .trading_record .date {
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.lgc .light_color, .usdt .light_color {
+  color: #9d9d9d;
+}
+
+.lgc .popup_list, .usdt .popup_list {
+  margin: 0 20px;
+}
+
+.lgc .popup_list .via, .usdt .popup_list .via {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.lgc .popup_list .id, .usdt .popup_list .id {
+  width: 150px;
+  background: #34424d;
+  margin: 10px auto;
+  color: #fff;
+  border-radius: 30px;
+}
+
+.lgc .van-popup__close-icon, .usdt .van-popup__close-icon {
+  color: #32d1a2 !important;
+  background-color: rgba(50, 209, 162, 0.2) !important;
+  font-size: 48px;
+  border-radius: 10px;
+}
+/*# sourceMappingURL=lgc_usdt.css.map */
